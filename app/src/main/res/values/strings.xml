@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ticket App</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="alamat">Alamat</string>
+    <string name="password">Password</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="register_button">Register</string>
+    <string name="regist_header_2">Register !</string>
+    <string name="regist_header_1">Register</string>
+    <string name="your_photo">Your Photo</string>
+    <string name="keLogin"><![CDATA[< Login]]></string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/drawable/background_icon.xml" value="0.1" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/drawable/background_image.xml" value="0.144" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/drawable/background_uisquare.xml" value="0.1" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/drawable/background_uisquare2.xml" value="0.1" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/drawable/bg_home_wave.xml" value="0.1105" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/drawable/bg_rounded_top.xml" value="0.1" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/drawable/chat_ing_background.xml" value="0.1105" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/drawable/dotted.xml" value="0.1105" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/drawable/ic_bus2.xml" value="0.1105" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/drawable/ic_compare.xml" value="0.1045" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/drawable/ic_double_arrow.xml" value="0.141" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/drawable/ic_logout.xml" value="0.1785" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/drawable/ic_person.xml" value="0.144" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/drawable/laporan_img_background.xml" value="0.188" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/drawable/spinner_background.xml" value="0.135" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/layout/activity_history.xml" value="0.3298835705045278" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/layout/activity_input_data.xml" value="0.22" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/layout/activity_login.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/layout/activity_register.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/layout/activity_tiket.xml" value="0.1" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/layout/confirm_ticket.xml" value="0.3006134969325153" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/layout/history_ticket.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/arif/AndroidStudioProjects/TicketApp/app/src/main/res/layout/item_container_pesanan.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "906373523965",
+    "project_id": "tiketapp-cf409",
+    "storage_bucket": "tiketapp-cf409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906373523965:android:1fe6cd9dedc2627da49194",
+        "android_client_info": {
+          "package_name": "com.example.ticketapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906373523965-5f0609cc4730sj58a86lre2dqqll6suv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcCY132fymfrn2QYEKFTsh7Wc6h6SqK0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906373523965-5f0609cc4730sj58a86lre2dqqll6suv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906373523965:android:2fee5cf12795ffeba49194",
+        "android_client_info": {
+          "package_name": "com.uas.tiketapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906373523965-8f2qob0fq7in0c1f5felqdehdmscgmu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uas.tiketapp",
+            "certificate_hash": "f2eaf8ef2c5bf7ff57e30c5a3331d6b3c7ba798e"
+          }
+        },
+        {
+          "client_id": "906373523965-5f0609cc4730sj58a86lre2dqqll6suv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcCY132fymfrn2QYEKFTsh7Wc6h6SqK0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906373523965-5f0609cc4730sj58a86lre2dqqll6suv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
